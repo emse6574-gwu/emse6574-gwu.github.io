@@ -1,0 +1,9 @@
+---
+title: "EMSE 6574: Programming for Analytics"
+output:
+  html_document:
+    toc: false
+---
+
+## Current Section: 
+- [Fall 2019](https://emse6574.netlify.com)
