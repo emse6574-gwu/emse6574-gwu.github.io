@@ -5,5 +5,5 @@ output:
     toc: false
 ---
 
-## Current Section: 
-- [Fall 2019](https://emse6574.netlify.com)
+### Select Section: 
+- [Fall 2019](https://emse6574-gwu.github.io/2019-Fall)

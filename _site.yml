@@ -2,9 +2,7 @@ name: "EMSE 6574: Programming for Analytics"
 output_dir: "."
 navbar:
   type: inverse
-  left:
-    - text: "Home"
-      href: index.html
 output:
   html_document:
     theme: simplex
+    css: style.css
