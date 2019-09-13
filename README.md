@@ -1,4 +1,4 @@
-Course website for EMSE 6574: Programming for Analytics
+Course website for EMSE 6574: Programming for Analytics, Section 11 (undergraduate)
 
 [Home Page](https://emse6574-gwu.github.io)
 
