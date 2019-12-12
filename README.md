@@ -1,5 +1,5 @@
-Course website for EMSE 6574: Programming for Analytics, Section 11 (undergraduate)
+### Description: 
 
-[Home Page](https://emse6574-gwu.github.io)
+This is the course website for EMSE Undergraduate Programming for Analytics @ GWU. This course provides a foundation in programming for data analytics using the [R programming language](https://www.r-project.org/).
 
-[Fall 2019 Section](https://emse6574-gwu.github.io/2019-Fall)
+[Home Page](https://emse-p4a-gwu.github.io)
