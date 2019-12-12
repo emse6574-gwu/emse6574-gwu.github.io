@@ -1,4 +1,4 @@
-name: "EMSE 6574: Programming for Analytics"
+name: "EMSE Undergraduate Programming for Analytics"
 output_dir: "."
 navbar:
   type: inverse
