@@ -1,8 +1,13 @@
 name: "EMSE Undergraduate Programming for Analytics"
 output_dir: "."
-navbar:
-  type: inverse
+exclude:
+- README
 output:
   html_document:
-    theme: simplex
-    css: style.css
+    lib_dir: site_libs
+    self_contained: no
+    include:
+      in_header:
+      - _includes/header.html
+      after_body: _includes/footer.html
+    theme: cosmo
