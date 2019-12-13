@@ -1,6 +1,8 @@
 Programming for Analytics
 ================
 
+<img src="https://emse6574-gwu.github.io/2019-Fall/images/p4a_hex_sticker.png" width="400">
+
 ### Description:
 
 This is the course website for the
