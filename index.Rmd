@@ -1,9 +1,13 @@
 ---
-title: "Programming for Analytics"
 output: html_document
 ---
 
-<img src="https://emse6574-gwu.github.io/images/p4a_hex_sticker.png" width="400">
+```{r, echo=FALSE, message=FALSE}
+library(fontawesome)
+```
+
+# Programming for Analytics
+<img src="https://emse6574-gwu.github.io/images/p4a_hex_sticker.png" width="100">
 
 ```{r child = '_description.Rmd'}
 ```
