@@ -6,8 +6,12 @@ output: html_document
 library(fontawesome)
 ```
 
-# Programming for Analytics
-<img src="https://emse6574-gwu.github.io/images/p4a_hex_sticker.png" width="100">
+<table>
+    <tr>
+        <td><br><img src="https://emse6574-gwu.github.io/images/p4a_hex_sticker.png" width="120"></td>
+        <td><h1>&ensp;Programming for Analytics</h1></td>
+    </tr>
+</table>
 
 ```{r child = '_description.Rmd'}
 ```
