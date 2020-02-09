@@ -1,6 +1,9 @@
 Programming for Analytics
 ================
 
+**NOTE**: The content for this site has been transfered to
+[here](http://github.com/emse-p4a-gwu/)
+
 ### Description:
 
 This is the course website for the
